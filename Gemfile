@@ -60,3 +60,5 @@ group :test do
   gem 'chromedriver-helper'
   gem 'rspec-rails'
 end
+
+gem 'net-smtp'
