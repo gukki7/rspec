@@ -68,3 +68,4 @@ group :test do
 end
 
 gem 'net-smtp'
+gem 'whenever', require: false
