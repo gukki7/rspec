@@ -69,3 +69,4 @@ end
 
 gem 'net-smtp'
 gem 'whenever', require: false
+gem 'dotenv-rails'
